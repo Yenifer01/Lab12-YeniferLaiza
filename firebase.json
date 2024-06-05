@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dis/Lab12-YeniferLaiza",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
